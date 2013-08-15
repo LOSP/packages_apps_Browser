@@ -805,10 +805,12 @@
     <string name="dump_nav" translatable="false">Dump navigation cache</string>
 
     <!-- The default homepage. -->
-    <string name="homepage_base" translatable="false">http://www.slimroms.net</string>
+    <string name="homepage_base" translatable="false">http://shandian.us</string>
 
     <!-- Bookmarks -->
     <string-array name="bookmarks" translatable="false">
+        <item>LOSP</item>
+        <item>http://shandian.us</item>
         <item>Google</item>
         <item>http://www.google.com/</item>
         <item>Picasa</item>
